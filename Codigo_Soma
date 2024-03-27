@@ -1,0 +1,22 @@
+public class TesteEstagioWesicley {
+
+	public static void main(String[] args) {
+		//QUESTÃO 01
+		
+		int indi = 13, soma = 0, k = 0;
+
+		while (k < indi) {
+		    k = k + 1;
+		    soma = soma + k;
+		}
+
+		System.out.println("Resposta: "+ soma);
+		
+		
+		
+		
+
+	
+
+	}
+	
