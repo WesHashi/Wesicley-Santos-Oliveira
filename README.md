@@ -1,4 +1,4 @@
-# Teste Target Wesicley-Santos-Oliveira
+# Teste Target Wesicley Santos-Oliveira
 
 1) Observe o trecho de código abaixo:
    
